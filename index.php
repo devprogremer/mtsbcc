@@ -52,12 +52,12 @@
           <li><a class="nav-link scrollto active" href="#home">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Profil</a></li>
-              <li><a href="#">Visi Dan Misi</a></li>
-              <li><a href="#">Struktur Organisasi</a></li>
-              <li><a href="#">Data Guru</a></li>
-              <li><a href="#">Akreditasi</a></li>
-              <li><a href="#">Sarana</a></li>
+              <li><a href="profil.php">Profil</a></li>
+              <li><a href="visi.php">Visi Dan Misi</a></li>
+              <li><a href="organisasi.php">Struktur Organisasi</a></li>
+              <li><a href="data.php">Data Guru</a></li>
+              <li><a href="akreditasi.php">Akreditasi</a></li>
+              <li><a href="sarana.php">Sarana</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
@@ -103,25 +103,25 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-book-open-line"></i>
-            <h3><a href="">Yayasan BCC</a></h3>
+            <h3><a href="yayasan.php">Yayasan BCC</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-empathize-line"></i>
-            <h3><a href="">Fasilitas</a></h3>
+            <h3><a href="fasilitas.php">Fasilitas</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-group-line"></i>
-            <h3><a href="">Prestasi</a></h3>
+            <h3><a href="prestasi.php">Prestasi</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-team-line"></i>
-            <h3><a href="">Alumni</a></h3>
+            <h3><a href="alumni.php">Alumni</a></h3>
           </div>
         </div>
       </div>
