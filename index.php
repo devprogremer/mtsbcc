@@ -42,27 +42,15 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-lg-between">
 
-<<<<<<< HEAD
       <h1 class="logo me-auto me-lg-0"> <img src="assets/img/logomts.png" alt="Logo"/><a href="index.php">MTs<span>BCC</span></a></h1>
-=======
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">MTS<span>BCC</span></a></h1>
->>>>>>> 93ee7591cc78cbe190ba81d40305551fde09c568
+
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-<<<<<<< HEAD
           <li><a class="nav-link scrollto active" href="#home">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
-=======
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">Profil</a></li>
-          <li><a class="nav-link scrollto" href="#services">Service</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">PPDB</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-      <!--    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
->>>>>>> 93ee7591cc78cbe190ba81d40305551fde09c568
             <ul>
               <li><a href="#">Profil</a></li>
               <li><a href="#">Visi Dan Misi</a></li>
@@ -100,44 +88,34 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-<<<<<<< HEAD
           <h1>Selamat Datang <br> DI MTs <span>BINA CENDEKIA CIREBON</span></h1>
           <h2>Sekolah Kita Gudangnya Akhlakul Karimah</h2>
-=======
-          <h1><span>MTS Bina Cendekia Cirebon</span></h1>
-          <h2> murid menjadi mandiri,cerdas dan berakhlak mulia</h2>
->>>>>>> 93ee7591cc78cbe190ba81d40305551fde09c568
         </div>
       </div>
 
       <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-<<<<<<< HEAD
             <i class="bi bi-person-fill"></i>
             <h3><a href="sambutan.php">Sambutan Kepsek</a></h3>
-=======
-            <i class="ri-user-star-line"></i>
-            <h3><a href="">Sambutan</a></h3>
->>>>>>> 93ee7591cc78cbe190ba81d40305551fde09c568
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-book-open-line"></i>
-            <h3><a href="">Visi Misi</a></h3>
+            <h3><a href="">Yayasan BCC</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-empathize-line"></i>
-            <h3><a href="">Ekstrakurikuler</a></h3>
+            <h3><a href="">Fasilitas</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-group-line"></i>
-            <h3><a href="">Guru</a></h3>
+            <h3><a href="">Prestasi</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -162,7 +140,7 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Sejarah singkat tentang mts bina cendekia cirebon</h3>
+            <h3>Sejarah Singkat Tentang MTs Bina Cendekia Cirebon</h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
@@ -773,10 +751,10 @@
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google"><i class="bx bxl-google"></i></a>
-                <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
+                <a href="https://www.facebook.com/MTsBinaCendekiaCirebon?mibextid=ZbWKwL" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://instagram.com/mtsbinacendekia?igshid=OGQ2MjdiOTE=" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://referensi.data.kemdikbud.go.id/tabs.php?npsn=20278791" class="google"><i class="bx bxl-google"></i></a>
+                <a href="https://youtube.com/@mtsbinacendekiacirebon6066" class="youtube"><i class="bx bxl-youtube"></i></a>
               </div>
             </div>
           </div>
@@ -818,22 +796,14 @@
 
     <div class="container">
       <div class="copyright">
-<<<<<<< HEAD
         &copy; Copyright <strong><span>MTs</span></strong>BINA CENDEKIA CIREBON
-=======
-        &copy; Copyright <strong><span>MTS Bina Cendekia</span></strong>. All Rights Reserved
->>>>>>> 93ee7591cc78cbe190ba81d40305551fde09c568
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-<<<<<<< HEAD
-        Designed by <a href="https://bootstrapmade.com/">Team MJ</a>
-=======
-        Designed by <a href="https://bootstrapmade.com/">Maulana Team</a>
->>>>>>> 93ee7591cc78cbe190ba81d40305551fde09c568
+        Designed by <a href="">Team MJ</a>
       </div>
     </div>
   </footer><!-- End Footer -->
