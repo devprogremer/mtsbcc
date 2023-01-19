@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>MTS BINA CENDEKIA CIREBON</title>
+  <title>MTS Bina Cendekia Cirebon</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,7 +42,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-lg-between">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Gp<span>.</span></a></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">MTS<span>BCC</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -50,7 +50,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">Profil</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#services">Service</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">PPDB</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
       <!--    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -86,40 +86,40 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-          <h1>Powerful Digital Solutions With Gp<span>.</span></h1>
-          <h2>We are team of talented digital marketers</h2>
+          <h1><span>MTS Bina Cendekia Cirebon</span></h1>
+          <h2> murid menjadi mandiri,cerdas dan berakhlak mulia</h2>
         </div>
       </div>
 
       <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-store-line"></i>
+            <i class="ri-user-star-line"></i>
             <h3><a href="">Sambutan</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">Dolor Sitema</a></h3>
+            <i class="ri-book-open-line"></i>
+            <h3><a href="">Visi Misi</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-calendar-todo-line"></i>
-            <h3><a href="">Mata Pelajaran</a></h3>
+            <i class="ri-empathize-line"></i>
+            <h3><a href="">Ekstrakurikuler</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-paint-brush-line"></i>
-            <h3><a href="">Magni Dolores</a></h3>
+            <i class="ri-group-line"></i>
+            <h3><a href="">Guru</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-database-2-line"></i>
-            <h3><a href="">Nemos Enimade</a></h3>
+            <i class="ri-team-line"></i>
+            <h3><a href="">Alumni</a></h3>
           </div>
         </div>
       </div>
@@ -138,7 +138,7 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Sejarah singkat tentang mts bina cendekia cirebon</h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
@@ -718,9 +718,9 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Pesan Kamu Telah Terkirim. Terimakasih!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Kirim Pesan</button></div>
             </form>
 
           </div>
@@ -794,14 +794,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>MTS Bina Cendekia</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">Maulana Team</a>
       </div>
     </div>
   </footer><!-- End Footer -->
