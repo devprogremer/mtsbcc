@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/faviconmts.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -42,40 +42,41 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-lg-between">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Gp<span>.</span></a></h1>
+      <h1 class="logo me-auto me-lg-0"> <img src="assets/img/logomts.png" alt="Logo"/><a href="index.php">MTs<span>BCC</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">profil</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">ppdb</a></li>
-          <li><a class="nav-link scrollto" href="#team">Tl</a></li>
-      <!--    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
+          <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Profil</a></li>
+              <li><a href="#">Visi Dan Misi</a></li>
+              <li><a href="#">Struktur Organisasi</a></li>
+              <li><a href="#">Data Guru</a></li>
+              <li><a href="#">Akreditasi</a></li>
+              <li><a href="#">Sarana</a></li>
             </ul>
-          </li>-->
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          </li>
+          <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="brosur.php">Brosur</a></li>
+              <li><a href="daftar.php">Daftar</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="kegiatan.php">Kegiatan Sekolah</a></li>
+              <li><a href="eskul.php">Ekstrakulikuler</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="rapot.php">Rapot Digital</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+      <a href="login.php" class="get-started-btn scrollto">Login</a>
 
     </div>
   </header><!-- End Header -->
@@ -86,16 +87,16 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-          <h1>Powerful Digital Solutions With Gp<span>.</span></h1>
-          <h2>We are team of talented digital marketers</h2>
+          <h1>Selamat Datang <br> DI MTs <span>BINA CENDEKIA CIREBON</span></h1>
+          <h2>Sekolah Kita Gudangnya Akhlakul Karimah</h2>
         </div>
       </div>
 
       <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-store-line"></i>
-            <h3><a href="">sambutan</a></h3>
+            <i class="bi bi-person-fill"></i>
+            <h3><a href="sambutan.php">Sambutan Kepsek</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -669,7 +670,7 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.6386903995012!2d108.61839429999999!3d-6.813725899999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f04acc40a4fb1%3A0xe6f19685c9307c9a!2sMTs%20Bina%20Cendikia!5e0!3m2!1sen!2sid!4v1674143370622!5m2!1sen!2sid" width="1100" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         <div class="row mt-5">
@@ -679,19 +680,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>5JP9+G92, Mertapada Wetan, Kecamatan.Astanajapura,<br> Kabupaten.Cirebon, Jawa Barat 45181<p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>mtsbinacendekia@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>085287222111</p>
               </div>
 
             </div>
@@ -740,23 +741,23 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
+              <h3>Alamat<span>:</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Jl. KH Wahid Hasyim <br>
+                Desa. Mertapada Wetan<br> Kecanatan. Astanajapura<br>Kabupaten. Cirebon<br>Jawa Barat 45181<br>
+                <strong>Phone:</strong> 085287222111<br>
+                <strong>Email:</strong> mtsbinacendekia@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="#" class="google"><i class="bx bxl-google"></i></a>
+                <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
               </div>
             </div>
           </div>
-
+          
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
@@ -794,14 +795,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>MTs</span></strong>BINA CENDEKIA CIREBON
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://bootstrapmade.com/">Team MJ</a>
       </div>
     </div>
   </footer><!-- End Footer -->
