@@ -7,7 +7,7 @@
 <body>
 
     <div class="container">
-	<h2>Login multi user dengan PHP</h2><br>
+	<h2>SELAMAT DATANG </h2><br>
 	<?php
 		 //Fungsi untuk mencegah inputan karakter yang tidak sesuai
 		 function input($data) {
@@ -42,9 +42,9 @@
 					header("Location:admin.php");
 				} else if ($_SESSION["level"]=$row["level"]==2)
 				{
-					header("Location:penjual.php");
+					header("Location:operator.php");
 				}else if ($_SESSION["level"]=$row["level"]==3){
-					header("Location:pembeli.php");
+					header("Location:siswa.php");
 				}
 		
 				
