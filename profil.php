@@ -49,7 +49,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
+          <li><a class="nav-link scrollto active" href="home">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="profil.php">Profil</a></li>
@@ -137,22 +137,23 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/features.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>PROFIL  MTs Bina Cendekia Cirebon</h3>
+          <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>PROFIL MTS BINA CENDEKIA CIREBON</h2>
+          <p>SEJARAH SINGKAT</p>
+        </div>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+              Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 yayasan itu merger dan menjadi yayasan PATWA. Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT). Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:
+<li><i class="ri-check-double-line"></i> 1. H. Hasanuddin, S.Ag</li>
+<li><i class="ri-check-double-line"></i>  2. H. Djidinuddin</li>
+<li><i class="ri-check-double-line"></i>  3. Drs. H. Wahuri</li>
+<li><i class="ri-check-double-line"></i>  4. Mohammad Qushoy, M.Pd</li>
+Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, apalgai siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
             </p>
           </div>
         </div>

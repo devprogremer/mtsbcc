@@ -137,27 +137,26 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/mts3.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/About.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Sejarah Singkat Tentang MTs Bina Cendekia Cirebon</h3>
-            <p class="fst-italic">
-            Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA
+          <div class="section-title">
+          <h2>PROGRAM PENDIDIKAN </h2>
+          <p>MTS Bina Cendekia Cirebon </p>
+        </div>
             </p>
             <p class="fst-justify">
             Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009
             MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya: 
           </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> H. Hasanuddin, S.Ag</li>
-              <li><i class="ri-check-double-line"></i> H. Djidinuddin</li>
-              <li><i class="ri-check-double-line"></i> Drs. H. Wahuri</li>
-              <li><i class="ri-check-double-line"></i> Mohammad Qushoy, M.Pd</li>
-            </ul>
+<li><i class="ri-check-double-line"></i> Sebagian besar peserta didik pada jenjang pendidikan dasar dan menengah datang dari keluarga yang kondisi ekonominya adalah menengah ke bawah, dan diantara mereka adalah yatim. Oleh karena itu, mereka hanya diwajibkan membayar uang sumbangan penyelenggaraan pendidikan (SPP) dalam jumlah kecil, dan bagi mereka yang tidak mampu dibebaskan dari kewajiban membayar SPP tersebut.</li>
+<li><i class="ri-check-double-line"></i>Mengikuti program belajar membaca Al Qur’an secara fasih dan belajar tentang kewirausahaan, aqidah, ibadah, and akhlaq adalah wajib bagi setiap peserta didik. </li>
+<li><i class="ri-check-double-line"></i>Program Tahfidz AlQur’an disediakan bagi mereka yang berminat untuk mengikutinya. Dalam program ini peserta dapat memilih program Tahfidz satu Juz’u, Tahfidz lima Juz’u, Tahfidz sepuluh Juz’u, atau Tahfidz seluruhAl Qur’an.</li>
+<li><i class="ri-check-double-line"></i>Disediakan program belajar berkomunikasi menggunakan bahasa Arab, Inggris, Jepang, atau Mandarin yang dapat dipilih oleh peserta didik yang berminat untuk mengikutinya. </li>
+<li><i class="ri-check-double-line"></i>Disediakan program belajar Kitab Kuning (Kutubut Turats)yang disediakan bagi peserta didik yang berminat untuk mengikutinya. </li>
+<li><i class="ri-check-double-line"></i>Disediakan pula proram pemanfaatan masjid kampus (masjid Raudlatut Thalibien) sebagai pusat belajar, khususnya TahfidzAl Qur’an, belajar Kitab Kuning, belajar berkomunikasi menggunakan Bahasa asing, dan kegiatan-kegiatan belajar lainnya. </li>
             <p>
-            Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, 
-            apalagi siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
-            </p>
           </div>
         </div>
 
@@ -509,11 +508,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h3>Words Of Motivation</h3>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Jiwa kamu rapuh karena kegagalan? Setidaknya itu lebih baik daripada jiwa yang kosong karena diam tak pernah mencoba. Banyak sekali kegagalan hidup yang di rasakan oleh orang-orang, itu karena mereka tidak menyadari betapa dekatnya dirinya dengan keberhasilan saat ia memutuskan untuk Menyerah.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -522,11 +520,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <h3>Words Of Motivation</h3>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Kesalahan yang seharusnya kamu sesali bukanlah kegagalan, tetapi ketika kamu berhenti untuk mencoba kembali dan menyerah sebelum merasakan keberhasilan.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -535,11 +532,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <h3>Words Of Motivation</h3>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Jangan pernah lelah dengan mimpi, jika tidak terpenuhi. Ketakutan akan kegagalan seharusnya tidak menghalangimu dari jalan kepercayaan diri.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -548,11 +544,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <h3>Words Of Motivation</h3>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  Perubahan diri memerlukan perjuangan, bukan dengan sekadar duduk diam. Berjuanglah demi perubahan diri dan beri ruang pada perubahan.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -561,11 +556,10 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <h3>Words Of Motivation</h3>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Jangan lelah mencoba. Tidak ada jaminan kesuksesan, tetapi memilih untuk tidak mencoba adalah jaminan kegagalan.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
