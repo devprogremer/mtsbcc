@@ -49,7 +49,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="home">Home</a></li>
+          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="profil.php">Profil</a></li>
@@ -148,7 +148,16 @@
           <p>SEJARAH SINGKAT</p>
         </div>
             <p class="fst-italic">
-              Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 yayasan itu merger dan menjadi yayasan PATWA. Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT). Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:
+              Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an 
+              dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. Beliau yang sejak 
+              tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru 
+              pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 
+              yayasan itu merger dan menjadi yayasan PATWA. Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. 
+              Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. 
+              Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah 
+              membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi 
+              Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian 
+              satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT). Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:
 <li><i class="ri-check-double-line"></i> 1. H. Hasanuddin, S.Ag</li>
 <li><i class="ri-check-double-line"></i>  2. H. Djidinuddin</li>
 <li><i class="ri-check-double-line"></i>  3. Drs. H. Wahuri</li>
