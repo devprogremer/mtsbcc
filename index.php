@@ -72,7 +72,7 @@
               <li><a href="eskul.php">Ekstrakulikuler</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="rapot.php">Rapot Digital</a></li>
+          <li><a class="nav-link scrollto" href="http://rdm.mtsbinacendekia.sch.id/">Rapot Digital</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
