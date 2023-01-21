@@ -62,7 +62,7 @@
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="ppdb/index.php">Daftar</a></li>
+              <li><a href="formulir.php">Formulir</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -237,14 +237,14 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
-              <h4><a href="">Program Beaiswa</a></h4>
+              <h4><a href="">Program Beasiswa</a></h4>
               <p>Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><i class="bi bi-people"></i></div>
               <h4><a href="">Pengajar Kompoten</a></h4>
               <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
