@@ -49,14 +49,13 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
+          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="profil.php">Profil</a></li>
               <li><a href="visi.php">Visi Dan Misi</a></li>
               <li><a href="organisasi.php">Struktur Organisasi</a></li>
               <li><a href="data.php">Data Guru</a></li>
-              <li><a href="akreditasi.php">Akreditasi</a></li>
               <li><a href="sarana.php">Sarana</a></li>
             </ul>
           </li>
@@ -83,7 +82,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center justify-content-center">
+  <section id="hero" class="d-flex align-items-center justify-content-center" >
     <div class="container" data-aos="fade-up">
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
@@ -115,7 +114,7 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-group-line"></i>
-            <h3><a href="prestasi.php">Prestasi</a></h3>
+            <h3><a href="akreditasi.php">Akreditasi</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -137,7 +136,15 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+<<<<<<< HEAD
             <img src="assets/img/Aboutt.png" class="img-fluid" alt="">
+=======
+<<<<<<< HEAD
+            <img src="assets/img/ppdb-1.jpeg" class="img-fluid" alt="">
+=======
+            <img src="assets/img/About.png" class="img-fluid" alt="">
+>>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
+>>>>>>> fd1592bb354e5e27fdc32e35f0d523a0a6f09bf5
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -145,6 +152,10 @@
           <p>MTS Bina Cendekia Cirebon </p>
         </div>
             </p>
+            <p class="fst-justify">
+            Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009
+            MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya: 
+          </p>
             <ul>
 <li><i class="ri-check-double-line"></i> Sebagian besar peserta didik pada jenjang pendidikan dasar dan menengah datang dari keluarga yang kondisi ekonominya adalah menengah ke bawah, dan diantara mereka adalah yatim. Oleh karena itu, mereka hanya diwajibkan membayar uang sumbangan penyelenggaraan pendidikan (SPP) dalam jumlah kecil, dan bagi mereka yang tidak mampu dibebaskan dari kewajiban membayar SPP tersebut.</li>
 <li><i class="ri-check-double-line"></i>Mengikuti program belajar membaca Al Qur’an secara fasih dan belajar tentang kewirausahaan, aqidah, ibadah, and akhlaq adalah wajib bagi setiap peserta didik. </li>
@@ -572,8 +583,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
-          <p>Check our Team</p>
+          <h2>Program</h2>
+          <p>Program Study</p>
         </div>
 
         <div class="row">
@@ -581,17 +592,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/study-1.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Siswi Beprestasi</h4>
+                <span>Juara 1-3 dalam perlombaan antar kelas</span>
               </div>
             </div>
           </div>
@@ -599,17 +610,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/study-2.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Praktek Siswa</h4>
+                <span>Praktek siswa menyembelih ayam</span>
               </div>
             </div>
           </div>
@@ -617,17 +628,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/study-3.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Acara Maulid</h4>
+                <span>Kita juga selalu memperingati Hari Maulid Nabi Muhammad SAW</span>
               </div>
             </div>
           </div>
@@ -635,17 +646,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/study-4.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Siswa Berprestasi</h4>
+                <span>Siswa yang mendapatkan juara di perlombaan porak</span>
               </div>
             </div>
           </div>
@@ -699,17 +710,17 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Kamu" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subjek" id="subjek" placeholder="Subjek" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="pesan" rows="5" placeholder="Pesan" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -754,7 +765,7 @@
           </div>
           
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Informasi Yang Bermanfaat</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
@@ -765,7 +776,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Bootstrap</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
@@ -776,8 +787,8 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Comment</h4>
+            <p>Informasi lebih lengkap </p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
