@@ -72,7 +72,11 @@
               <li><a href="eskul.php">Ekstrakulikuler</a></li>
             </ul>
           </li>
+
+          <li><a class="nav-link scrollto" href="rapot.php">Rapot Digital</a></li>
+
           <li><a class="nav-link scrollto" href="http://rdm.mtsbinacendekia.sch.id/">Rapot Digital</a></li>
+
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -81,6 +85,7 @@
 
     </div>
   </header><!-- End Header -->
+
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center justify-content-center">
@@ -744,6 +749,7 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
 
   </main><!-- End #main -->
 
+>>>>>>> 652e4255199850805e544a4b63494ccf5235f5b3
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
