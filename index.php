@@ -702,17 +702,17 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Kamu" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Tulis Nama Lengkap" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subjek" id="subjek" placeholder="Subjek" required>
+                <input type="text" class="form-control" name="subjek" id="phone" placeholder="Nomor Telepon/WA" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="pesan" rows="5" placeholder="Pesan" required></textarea>
+                <textarea class="form-control" name="Massage" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
