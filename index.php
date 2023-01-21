@@ -52,7 +52,7 @@
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="profil.php">Profil</a></li>
+              <li><a href="profil.php">Profil Sekolah</a></li>
               <li><a href="visi.php">Visi Dan Misi</a></li>
               <li><a href="organisasi.php">Struktur Organisasi</a></li>
               <li><a href="data.php">Data Guru</a></li>
@@ -62,7 +62,7 @@
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="ppdb/index.php">Daftar</a></li>
+              <li><a href="formulir.php">Formulir</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -136,15 +136,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-<<<<<<< HEAD
             <img src="assets/img/Aboutt.png" class="img-fluid" alt="">
-=======
-<<<<<<< HEAD
-            <img src="assets/img/ppdb-1.jpeg" class="img-fluid" alt="">
-=======
-            <img src="assets/img/About.png" class="img-fluid" alt="">
->>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
->>>>>>> fd1592bb354e5e27fdc32e35f0d523a0a6f09bf5
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -196,7 +188,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
+          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpeg");' data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
@@ -236,25 +228,25 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <div class="icon"><i class="bi bi-book"></i></div>
+              <h4><a href="">Kurikulum Nasional</a></h4>
+              <p>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
+              <h4><a href="">Program Beasiswa</a></h4>
+              <p>Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <div class="icon"><i class="bi bi-people"></i></div>
+              <h4><a href="">Pengajar Kompoten</a></h4>
+              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
             </div>
           </div>
 
@@ -671,8 +663,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Contact Us</p>
+          <h2>Lokasi</h2>
+          <p>Lokasi Kami</p>
         </div>
 
         <div>
@@ -710,17 +702,17 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nama Kamu" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Tulis Nama Lengkap" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subjek" id="subjek" placeholder="Subjek" required>
+                <input type="text" class="form-control" name="subjek" id="phone" placeholder="Nomor Telepon/WA" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="pesan" rows="5" placeholder="Pesan" required></textarea>
+                <textarea class="form-control" name="Massage" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>

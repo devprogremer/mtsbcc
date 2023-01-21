@@ -150,8 +150,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr.Rian Ahmad Syahtori,ST.,M.Sc</h4>
-                <span>Ketua Yayasan BCUC</span>
+                <h4>Muhammad Qushoy</h4>
+                <span>KEPALA MADRASAH</span>
               </div>
             </div>
           </div>
@@ -168,8 +168,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Mohammad Qushoy,M.Pd</h4>
-                <span>Kepala Madrasah</span>
+                <h4>Alwi Baihaqi</h4>
+                <span>KEPALA URUSAN TATA USAHA</span>
               </div>
             </div>
           </div>
@@ -185,8 +185,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Drs.H.Sodli Abdul Halim</h4>
-                <span>Ketua Komite</span>
+                <h4>Titim Siti Fatimah, S.Pd,I</h4>
+                <span>BENDAHARA</span>
               </div>
             </div>
           </div>
@@ -202,8 +202,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Muhammad Ma'mun,S.pd.I</h4>
-                <span>Wakabid Kurikulum</span>
+                <h4>Alwi Baihaqi</h4>
+                <span>OPERATOR MADRASAH</span>
               </div>
             </div>
           </div>
@@ -220,12 +220,11 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Ahmad Kinani, S.Kom</h4>
-                <span>Wakabid Kesiswaan</span>
+                <h4>Baitul Izza,S.H.I</h4>
+                <span>OPERATOR MADRASAH</span>
               </div>
             </div>
           </div>
-
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
@@ -238,8 +237,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Ahmad Syifa, S.Hum</h4>
-                <span>Kepala Tata Usaha</span>
+                <h4>Ahmad Kinani,S.Kom.I</h4>
+                <span>BIDANG KURIKULUM</span>
               </div>
             </div>
           </div>
@@ -255,8 +254,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah, S.Pd,I</h4>
-                <span>Bendahara</span>
+                <h4>Dian Siti Oliyana,S.Pd</h4>
+                <span>BIDANG KESISWAAN</span>
               </div>
             </div>
             </div>
@@ -272,13 +271,11 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dra.Roisah</h4>
-                <span>Koor.Perpustakaan</span>
+                <h4>Muhammad Ma'mun,S.Pd.I</h4>
+                <span>BIDANG SARPAS</span>
               </div>
             </div>
           </div>
-        </div>
-      </div>
       <div class="row">
        <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div class="member" data-aos="fade-up" data-aos-delay="100">
@@ -292,84 +289,11 @@
                 </div>
                 </div>
     <div class="member-info">
-      <h4>Alwi Bayhaqi</h4>
-      <span>Operator</span>
-    </div>
-  </div>
-</div>
-
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="200">
-    <div class="member-img">
-      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
-      <div class="social">
-        <a href=""><i class="bi bi-twitter"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
-      </div>
-    </div>
-    <div class="member-info">
-      <h4>Saerah,S.Pd.</h4>
-      <span>Wali Kelas VII A</span>
-    </div>
-  </div>
-</div>
-
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="300">
-    <div class="member-img">
-      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
-      <div class="social">
-        <a href=""><i class="bi bi-twitter"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
-      </div>
-    </div>
-    <div class="member-info">
-      <h4>Ratu Ratna Sukainten,M.Pd</h4>
-      <span>Wali Kelas VII B</span>
-    </div>
-  </div>
-</div>
-
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="400">
-    <div class="member-img">
-      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
-      <div class="social">
-        <a href=""><i class="bi bi-twitter"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
-      </div>
-    </div>
-    <div class="member-info">
-      <h4>Vilya Fauziah,S.Pd</h4>
-      <span>Wali Kelas VII C</span>
-    </div>
-  </div>
-</div>
-
-<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-  <div class="member" data-aos="fade-up" data-aos-delay="100">
-    <div class="member-img">
-      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
-      <div class="social">
-        <a href=""><i class="bi bi-twitter"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
-      </div>
-    </div>
-    <div class="member-info">
       <h4>Dra.Roisah</h4>
-      <span>Wali Kelas VIII A</span>
+      <span>KEPALA PERPUSTAKAAN</span>
     </div>
   </div>
 </div>
-
 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
   <div class="member" data-aos="fade-up" data-aos-delay="200">
     <div class="member-img">
@@ -383,11 +307,10 @@
     </div>
     <div class="member-info">
       <h4>Ikna Maulida,S.Pd</h4>
-      <span>Wali KElas VIII B</span>
+      <span>KEPALA UKS</span>
     </div>
   </div>
 </div>
-
 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
   <div class="member" data-aos="fade-up" data-aos-delay="300">
     <div class="member-img">
@@ -400,8 +323,8 @@
       </div>
     </div>
     <div class="member-info">
-      <h4>Dian Siti Oliyana,S.Pd.I</h4>
-      <span>WAli Kelas XI A</span>
+      <h4>Ahmad Syahtori,SHI</h4>
+      <span>PEMBINA OSIS</span>
     </div>
   </div>
 </div>
@@ -417,8 +340,76 @@
       </div>
     </div>
     <div class="member-info">
-      <h4>Entik Kartika,S.Pd</h4>
-      <span>Wali Kelas IX B </span>
+      <h4>Titim Siti Fatimah,S.Pd.I</h4>
+      <span>PEMBINA PRAMUKA</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="100">
+    <div class="member-img">
+      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+      <div class="social">
+        <a href=""><i class="bi bi-twitter"></i></a>
+        <a href=""><i class="bi bi-facebook"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href=""><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+    <div class="member-info">
+      <h4>Alwy Baihaqi</h4>
+      <span>PEMBINA HADROH</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="200">
+    <div class="member-img">
+      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+      <div class="social">
+        <a href=""><i class="bi bi-twitter"></i></a>
+        <a href=""><i class="bi bi-facebook"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href=""><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+    <div class="member-info">
+      <h4>Ikna Maulida,S.Pd</h4>
+      <span>PEMBINA PMR</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="300">
+    <div class="member-img">
+      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+      <div class="social">
+        <a href=""><i class="bi bi-twitter"></i></a>
+        <a href=""><i class="bi bi-facebook"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href=""><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+    <div class="member-info">
+      <h4>Ahmad Kinani,S.Kom.I</h4>
+      <span>PEMBINA PASKIBRA</span>
+    </div>
+  </div>
+</div>
+<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+  <div class="member" data-aos="fade-up" data-aos-delay="400">
+    <div class="member-img">
+      <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+      <div class="social">
+        <a href=""><i class="bi bi-twitter"></i></a>
+        <a href=""><i class="bi bi-facebook"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href=""><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+    <div class="member-info">
+      <h4>Abdul Aziz,S.Pd.I</h4>
+      <span>PEMBINA PAGAR NUSA</span>
     </div>
   </div>
 </div>
@@ -434,8 +425,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah,S.Pd.I</h4>
-                <span>Wali Kelas IX C</span>
+                <h4>Saerah,S.Pd</h4>
+                <span>WALI KELAS VII A</span>
               </div>
             </div>
             </div>
@@ -451,8 +442,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah,S.Pd.I</h4>
-                <span>Wali Kelas IX C</span>
+                <h4>Ratu Ratna Sukainten,S.Pd</h4>
+                <span>WALI KELAS VII B</span>
               </div>
             </div>
             </div>
@@ -468,8 +459,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah,S.Pd.I</h4>
-                <span>Wali Kelas IX C</span>
+                <h4>Vilya Fauziah,S.Pd.</h4>
+                <span>WALI KELAS VII C</span>
               </div>
             </div>
             </div>
@@ -485,16 +476,81 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Titim Siti Fatimah,S.Pd.I</h4>
-                <span>Wali Kelas IX C</span>
+                <h4>Dra.Roisah</h4>
+                <span>WALI KELAS VIII A</span>
               </div>
             </div>
             </div>
             <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ikna Maulida,S.Pd</h4>
+                <span>WALI KELAS VIII B</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Titim Siti Fatimah,S.Pd.I</h4>
+                <span>WALI KELAS VIII C</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Titim Siti Fatimah,S.Pd.I</h4>
+                <span>WALI KELAS IX A</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dian Siti Oliyana,S.Pd</h4>
+                <span>WALI KELAS IX B</span>
+              </div>
+            </div>
+            </div>
     </section><!-- End Features Section -->
-    </div>
-
-</div>
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
