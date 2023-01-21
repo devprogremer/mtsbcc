@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fac0c0;
+  color: #5c2ddd;
 }
 
 a {
-  color: #ffc451;
+  color: #060606;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffd584;
+  color: #84fbff;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffc451;
+  background: #1e1d1d;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -151,11 +151,11 @@ h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: rgb(15, 15, 14);
 }
 
 #header .logo a span {
-  color: #ffc451;
+  color: #519aff;
 }
 
 #header .logo img {
@@ -173,11 +173,11 @@ h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  border: 2px solid #e6720e;
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
+  background: #67da0f;
   color: #343a40;
 }
 
@@ -218,7 +218,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-size: 15px;
   font-weight: 600;
-  color: #fff;
+  color: rgb(29, 238, 10);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -234,7 +234,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffc451;
+  color: #15ec11;
 }
 
 .navbar .dropdown ul {
@@ -247,7 +247,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: rgb(11, 226, 61);
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -271,7 +271,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  background-color: #ffc451;
+  background-color: #51ff51;
 }
 
 .navbar .dropdown:hover>ul {
@@ -414,7 +414,7 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-     width: 100%;
+    width: 100%;
     height: 100vh;
     background: url(../img/mts-bg.jpeg) top center;
     background-size: cover;
@@ -423,7 +423,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(77, 201, 112, 0.6);
+  background: rgba(15, 16, 15, 0.6);
   position: absolute;
   bottom: 0;
   top: 0;
