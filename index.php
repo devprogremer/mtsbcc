@@ -136,15 +136,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-<<<<<<< HEAD
             <img src="assets/img/Aboutt.png" class="img-fluid" alt="">
-=======
-<<<<<<< HEAD
-            <img src="assets/img/ppdb-1.jpeg" class="img-fluid" alt="">
-=======
-            <img src="assets/img/About.png" class="img-fluid" alt="">
->>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
->>>>>>> fd1592bb354e5e27fdc32e35f0d523a0a6f09bf5
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
