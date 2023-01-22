@@ -52,17 +52,18 @@
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="profil.php">Profil Sekolah</a></li>
+              <li><a href="profil.php">Profil</a></li>
               <li><a href="visi.php">Visi Dan Misi</a></li>
               <li><a href="organisasi.php">Struktur Organisasi</a></li>
               <li><a href="data.php">Data Guru</a></li>
+              <li><a href="akreditasi.php">Akreditasi</a></li>
               <li><a href="sarana.php">Sarana</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="ppdb/index.php">Formulir</a></li>
+              <li><a href="ppdb/index.php">Daftar</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -71,7 +72,9 @@
               <li><a href="eskul.php">Ekstrakulikuler</a></li>
             </ul>
           </li>
+
           <li><a class="nav-link scrollto" href="http://rdm.mtsbinacendekia.sch.id/">Rapot Digital</a></li>
+
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -81,8 +84,9 @@
     </div>
   </header><!-- End Header -->
 
+
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center justify-content-center" >
+  <section id="hero" class="d-flex align-items-center justify-content-center">
     <div class="container" data-aos="fade-up">
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
@@ -114,7 +118,7 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-group-line"></i>
-            <h3><a href="akreditasi.php">Akreditasi</a></h3>
+            <h3><a href="prestasi.php">Prestasi</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -136,26 +140,33 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Aboutt.png" class="img-fluid" alt="">
+            <img src="assets/img/features.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-          <div class="section-title">
-          <h2>PROGRAM PENDIDIKAN </h2>
-          <p>MTS Bina Cendekia Cirebon </p>
+          <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>PROFIL MTS BINA CENDEKIA CIREBON</h2>
+          <p>SEJARAH SINGKAT</p>
         </div>
+            <p class="fst-italic">
+              Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an 
+              dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. Beliau yang sejak 
+              tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru 
+              pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 
+              yayasan itu merger dan menjadi yayasan PATWA. Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. 
+              Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. 
+              Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah 
+              membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi 
+              Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian 
+              satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT). Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:
+<li><i class="ri-check-double-line"></i> 1. H. Hasanuddin, S.Ag</li>
+<li><i class="ri-check-double-line"></i>  2. H. Djidinuddin</li>
+<li><i class="ri-check-double-line"></i>  3. Drs. H. Wahuri</li>
+<li><i class="ri-check-double-line"></i>  4. Mohammad Qushoy, M.Pd</li>
+Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, apalgai siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
             </p>
-            <p class="fst-justify">
-            Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009
-            MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya: 
-          </p>
-            <ul>
-<li><i class="ri-check-double-line"></i> Sebagian besar peserta didik pada jenjang pendidikan dasar dan menengah datang dari keluarga yang kondisi ekonominya adalah menengah ke bawah, dan diantara mereka adalah yatim. Oleh karena itu, mereka hanya diwajibkan membayar uang sumbangan penyelenggaraan pendidikan (SPP) dalam jumlah kecil, dan bagi mereka yang tidak mampu dibebaskan dari kewajiban membayar SPP tersebut.</li>
-<li><i class="ri-check-double-line"></i>Mengikuti program belajar membaca Al Qur’an secara fasih dan belajar tentang kewirausahaan, aqidah, ibadah, and akhlaq adalah wajib bagi setiap peserta didik. </li>
-<li><i class="ri-check-double-line"></i>Program Tahfidz AlQur’an disediakan bagi mereka yang berminat untuk mengikutinya. Dalam program ini peserta dapat memilih program Tahfidz satu Juz’u, Tahfidz lima Juz’u, Tahfidz sepuluh Juz’u, atau Tahfidz seluruhAl Qur’an.</li>
-<li><i class="ri-check-double-line"></i>Disediakan program belajar berkomunikasi menggunakan bahasa Arab, Inggris, Jepang, atau Mandarin yang dapat dipilih oleh peserta didik yang berminat untuk mengikutinya. </li>
-<li><i class="ri-check-double-line"></i>Disediakan program belajar Kitab Kuning (Kutubut Turats)yang disediakan bagi peserta didik yang berminat untuk mengikutinya. </li>
-<li><i class="ri-check-double-line"></i>Disediakan pula proram pemanfaatan masjid kampus (masjid Raudlatut Thalibien) sebagai pusat belajar, khususnya TahfidzAl Qur’an, belajar Kitab Kuning, belajar berkomunikasi menggunakan Bahasa asing, dan kegiatan-kegiatan belajar lainnya. </li>
-            <p>
           </div>
         </div>
 
@@ -188,7 +199,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpeg");' data-aos="fade-right"></div>
+          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");' data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
@@ -228,25 +239,25 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bi bi-book"></i></div>
-              <h4><a href="">Kurikulum Nasional</a></h4>
-              <p>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</p>
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4><a href="">Lorem Ipsum</a></h4>
+              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
-              <h4><a href="">Program Beasiswa</a></h4>
-              <p>Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</p>
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4><a href="">Sed ut perspiciatis</a></h4>
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bi bi-people"></i></div>
-              <h4><a href="">Pengajar Kompoten</a></h4>
-              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4><a href="">Magni Dolores</a></h4>
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
 
@@ -507,10 +518,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
+                <h3>Saul Goodman</h3>
+                <h4>Ceo &amp; Founder</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Jiwa kamu rapuh karena kegagalan? Setidaknya itu lebih baik daripada jiwa yang kosong karena diam tak pernah mencoba. Banyak sekali kegagalan hidup yang di rasakan oleh orang-orang, itu karena mereka tidak menyadari betapa dekatnya dirinya dengan keberhasilan saat ia memutuskan untuk Menyerah.
+                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -519,10 +531,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
+                <h3>Sara Wilsson</h3>
+                <h4>Designer</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Kesalahan yang seharusnya kamu sesali bukanlah kegagalan, tetapi ketika kamu berhenti untuk mencoba kembali dan menyerah sebelum merasakan keberhasilan.
+                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -531,10 +544,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
+                <h3>Jena Karlis</h3>
+                <h4>Store Owner</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Jangan pernah lelah dengan mimpi, jika tidak terpenuhi. Ketakutan akan kegagalan seharusnya tidak menghalangimu dari jalan kepercayaan diri.
+                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -543,10 +557,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
+                <h3>Matt Brandon</h3>
+                <h4>Freelancer</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Perubahan diri memerlukan perjuangan, bukan dengan sekadar duduk diam. Berjuanglah demi perubahan diri dan beri ruang pada perubahan.
+                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -555,10 +570,11 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
+                <h3>John Larson</h3>
+                <h4>Entrepreneur</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Jangan lelah mencoba. Tidak ada jaminan kesuksesan, tetapi memilih untuk tidak mencoba adalah jaminan kegagalan.
+                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -575,8 +591,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Program</h2>
-          <p>Program Study</p>
+          <h2>Team</h2>
+          <p>Check our Team</p>
         </div>
 
         <div class="row">
@@ -584,17 +600,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/study-1.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Siswi Beprestasi</h4>
-                <span>Juara 1-3 dalam perlombaan antar kelas</span>
+                <h4>Walter White</h4>
+                <span>Chief Executive Officer</span>
               </div>
             </div>
           </div>
@@ -602,17 +618,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/team/study-2.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Praktek Siswa</h4>
-                <span>Praktek siswa menyembelih ayam</span>
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
               </div>
             </div>
           </div>
@@ -620,17 +636,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/team/study-3.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Acara Maulid</h4>
-                <span>Kita juga selalu memperingati Hari Maulid Nabi Muhammad SAW</span>
+                <h4>William Anderson</h4>
+                <span>CTO</span>
               </div>
             </div>
           </div>
@@ -638,17 +654,17 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="assets/img/team/study-4.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Siswa Berprestasi</h4>
-                <span>Siswa yang mendapatkan juara di perlombaan porak</span>
+                <h4>Amanda Jepson</h4>
+                <span>Accountant</span>
               </div>
             </div>
           </div>
@@ -663,8 +679,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Lokasi</h2>
-          <p>Lokasi Kami</p>
+          <h2>Contact</h2>
+          <p>Contact Us</p>
         </div>
 
         <div>
@@ -689,7 +705,7 @@
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Hubungi Kami:</h4>
+                <h4>Call:</h4>
                 <p>085287222111</p>
               </div>
 
@@ -702,17 +718,17 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Tulis Nama Lengkap" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subjek" id="phone" placeholder="Nomor Telepon/WA" required>
+                <input type="text" class="form-control" name="subject" id="Phone" placeholder="Nomor Telepon/WA" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="Massage" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -757,7 +773,7 @@
           </div>
           
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Informasi Yang Bermanfaat</h4>
+            <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
@@ -768,7 +784,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Bootstrap</h4>
+            <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
@@ -779,8 +795,8 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Comment</h4>
-            <p>Informasi lebih lengkap </p>
+            <h4>Our Newsletter</h4>
+            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>

@@ -49,11 +49,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-<<<<<<< HEAD
-          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
-=======
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
->>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="profil.php">Profil</a></li>
@@ -77,6 +73,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="http://rdm.mtsbinacendekia.sch.id/">Rapot Digital</a></li>
+
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -84,14 +81,8 @@
       <a href="login.php" class="get-started-btn scrollto">Login</a>
 
     </div>
-<<<<<<< HEAD
-  </header>
-  <!-- End Header -->
-
-  
-  
-=======
   </header><!-- End Header -->
+
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center justify-content-center">
@@ -156,7 +147,7 @@
 
         <div class="section-title">
           <h2>PROFIL MTS BINA CENDEKIA CIREBON</h2>
-          <p>SEJARAH SINGKAT</p>
+          <p>PROFIL MTS BINA CENDEKIA</p>
         </div>
             <p class="fst-italic">
               Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an 
@@ -303,8 +294,8 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h3>MTS Bina Cendekia</h3>
+          <p> khkuh</p>
           <a class="cta-btn" href="#">Call To Action</a>
         </div>
 
@@ -733,10 +724,10 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="Phone" placeholder="Nomor Telepon/WA" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -755,7 +746,6 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
 
   </main><!-- End #main -->
 
->>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">

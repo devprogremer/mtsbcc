@@ -72,9 +72,6 @@
               <li><a href="eskul.php">Ekstrakulikuler</a></li>
             </ul>
           </li>
-
-          <li><a class="nav-link scrollto" href="rapot.php">Rapot Digital</a></li>
-
           <li><a class="nav-link scrollto" href="http://rdm.mtsbinacendekia.sch.id/">Rapot Digital</a></li>
 
         </ul>
@@ -150,7 +147,7 @@
 
         <div class="section-title">
           <h2>PROFIL MTS BINA CENDEKIA CIREBON</h2>
-          <p>SEJARAH SINGKAT</p>
+          <p>PROFIL MTS BINA CENDEKIA</p>
         </div>
             <p class="fst-italic">
               Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an 
@@ -297,8 +294,8 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <h3>MTS Bina Cendekia</h3>
+          <p> khkuh</p>
           <a class="cta-btn" href="#">Call To Action</a>
         </div>
 
