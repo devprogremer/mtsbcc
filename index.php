@@ -689,7 +689,7 @@
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4>Hubungi Kami:</h4>
                 <p>085287222111</p>
               </div>
 
