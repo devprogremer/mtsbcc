@@ -49,11 +49,11 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-<<<<<<< HEAD
+
           <li><a class="nav-link scrollto active" href="#home">Home</a></li>
-=======
+
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
->>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
+
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="profil.php">Profil</a></li>
@@ -84,13 +84,6 @@
       <a href="login.php" class="get-started-btn scrollto">Login</a>
 
     </div>
-<<<<<<< HEAD
-  </header>
-  <!-- End Header -->
-
-  
-  
-=======
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
@@ -755,7 +748,6 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
 
   </main><!-- End #main -->
 
->>>>>>> 5786c197c471ea93f07364a5163aed013083f44a
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
