@@ -61,8 +61,7 @@
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="formulir.php">Formulir</a></li>
+              <li><a href="#">Informasi Lengkap</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -86,9 +85,9 @@
     <div class="container" data-aos="fade-up">
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-        <div class="col-xl-6 col-lg-8">
-          <h1>Selamat Datang <br> DI MTs <span>BINA CENDEKIA CIREBON</span></h1>
-          <h2>Sekolah Kita Gudangnya Akhlakul Karimah</h2>
+        <div class="col-lg-6 col-lg-8">
+          <h1>Penerimaan Peserta <br> Didik Baru <span> MTs BINA CENDEKIA CIREBON</span></h1>
+          <h2>Kini Mendaftar ke MTs BCC Lebih Mudah <br> <span> Mendaftar Dari Rumah dan Tes Dari Rumah</h2>
         </div>
       </div>
 
@@ -136,7 +135,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Aboutt.png" class="img-fluid" alt="">
+            <img src="assets/img/ppdb1.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -188,7 +187,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpeg");' data-aos="fade-right"></div>
+          <div class="image col-xl-6" style='background-image: url("assets/img/ppdb2.jpeg");' data-aos="fade-left"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
@@ -216,69 +215,7 @@
       </div>
     </section><!-- End Features Section -->
 
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Check our Services</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-book"></i></div>
-              <h4><a href="">Kurikulum Nasional</a></h4>
-              <p>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
-              <h4><a href="">Program Beasiswa</a></h4>
-              <p>Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-people"></i></div>
-              <h4><a href="">Pengajar Kompoten</a></h4>
-              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
+    
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">
@@ -291,159 +228,6 @@
 
       </div>
     </section><!-- End Cta Section -->
-
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Check our Portfolio</p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
 
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
@@ -800,7 +584,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="">Team MJ</a>
+        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337">DevProgremer</a>
       </div>
     </div>
   </footer><!-- End Footer -->
