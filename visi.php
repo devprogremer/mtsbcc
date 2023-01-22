@@ -49,15 +49,7 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-<<<<<<< HEAD
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-=======
-
-          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
-
-          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-
->>>>>>> 92b1c9d11c19cca99552f57823a84dc01493913d
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="profil.php">Profil</a></li>
