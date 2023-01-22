@@ -6,7 +6,7 @@
 <br>
 <ul class="list-inline">
 <li>
-<a href="https://www.facebook.com/root93.co.id/" target="_blank"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
+<a href="https://www.facebook.com/profile.php?id=100089766366337/" target="_blank"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
 </li>
 <li>
 <a href="https://plus.google.com/u/0/+AhmadZaelani-r93" target="_blank"><i class="fa fa-google fa-fw fa-2x"></i></a>

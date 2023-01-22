@@ -727,10 +727,10 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="Phone" placeholder="Nomor Telepon/WA" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -749,7 +749,6 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
 
   </main><!-- End #main -->
 
->>>>>>> 652e4255199850805e544a4b63494ccf5235f5b3
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
