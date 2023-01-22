@@ -61,8 +61,7 @@
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="formulir.php">Formulir</a></li>
+              <li><a href="info.php">Infromasi Lengkap</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -76,7 +75,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="daftar.php" class="get-started-btn scrollto">Daftar</a>
+      <a href="login.php" class="get-started-btn scrollto">Login</a>
 
     </div>
   </header><!-- End Header -->
@@ -690,7 +689,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="">Team MJ</a>
+        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337">DevProgremer</a>
       </div>
     </div>
   </footer><!-- End Footer -->

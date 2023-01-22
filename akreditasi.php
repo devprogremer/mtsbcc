@@ -61,8 +61,7 @@
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="formulir.php">Formulir</a></li>
+              <li><a href="info.php">Infromasi Lengkap</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -136,25 +135,16 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Aboutt.png" class="img-fluid" alt="">
+            <img src="assets/img/Home.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>PROGRAM PENDIDIKAN </h2>
+          <h2>INFORMASI UMUM </h2>
           <p>MTS Bina Cendekia Cirebon </p>
         </div>
-            </p>
-            <p class="fst-justify">
-            Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009
-            MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya: 
-          </p>
             <ul>
-<li><i class="ri-check-double-line"></i> Sebagian besar peserta didik pada jenjang pendidikan dasar dan menengah datang dari keluarga yang kondisi ekonominya adalah menengah ke bawah, dan diantara mereka adalah yatim. Oleh karena itu, mereka hanya diwajibkan membayar uang sumbangan penyelenggaraan pendidikan (SPP) dalam jumlah kecil, dan bagi mereka yang tidak mampu dibebaskan dari kewajiban membayar SPP tersebut.</li>
-<li><i class="ri-check-double-line"></i>Mengikuti program belajar membaca Al Qur’an secara fasih dan belajar tentang kewirausahaan, aqidah, ibadah, and akhlaq adalah wajib bagi setiap peserta didik. </li>
-<li><i class="ri-check-double-line"></i>Program Tahfidz AlQur’an disediakan bagi mereka yang berminat untuk mengikutinya. Dalam program ini peserta dapat memilih program Tahfidz satu Juz’u, Tahfidz lima Juz’u, Tahfidz sepuluh Juz’u, atau Tahfidz seluruhAl Qur’an.</li>
-<li><i class="ri-check-double-line"></i>Disediakan program belajar berkomunikasi menggunakan bahasa Arab, Inggris, Jepang, atau Mandarin yang dapat dipilih oleh peserta didik yang berminat untuk mengikutinya. </li>
-<li><i class="ri-check-double-line"></i>Disediakan program belajar Kitab Kuning (Kutubut Turats)yang disediakan bagi peserta didik yang berminat untuk mengikutinya. </li>
-<li><i class="ri-check-double-line"></i>Disediakan pula proram pemanfaatan masjid kampus (masjid Raudlatut Thalibien) sebagai pusat belajar, khususnya TahfidzAl Qur’an, belajar Kitab Kuning, belajar berkomunikasi menggunakan Bahasa asing, dan kegiatan-kegiatan belajar lainnya. </li>
+          <p>  Madrasah Tsanawiyah (MTs) Bina Cendekia adalah satuan pendidikan yang berada dalam jurisdiksi Kementerian Agama (Kemenag). Menurut UU Nomor 20 Tahun 2003, tentang Sistem Pendidikan Nasional, satuan pendidikan ini menjadi terminal jenjang pendidikan dasar yang setara dengan Sekolah Menengah Pertama (SMP) yang berada pada jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Sebagai bagian dari sistem pendidikan nasional, satuan pendidikan ini dapat menjadi alternatif bagi lulusan Sekolah Dasar (SD) atau Madrasah Ibtidaiyah (MI) untuk melanjutkan pendidikan dalam rangka melaksanakan wajib belajar 9 tahun. Satu satunya perbedaan antara pendidikan di MTs dan di SMP adalah jumlah jam pelajaran yang dialokasikan untuk Pendidikan Agama Islam (PAI) yang pada kurikulum MTs dialokasikan 6 jam pelajaran, sedangkan pada kurikulum SMP hanya 2 jam pelajaran.      
+Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam program pendidikan Pesantren. Target yang ingin dicapai adalah setiap peserta didik mampu membaca Al Qur’an secara fasih dan lancar serta memahami dasar-dasar fiqih ibadah dan mu’amalah Islami, dan mampu melaksanakan prakteknya. Dalam pelaksanaannya, peserta didik dapat mencapai target itu dengan mengikuti kegiatan komplementer di Pesantren. Melalui cara ini diharapkan setiap peserta didik memperoleh kompetensi terkait dengan mata pelajaran PAI melebihi yang ditargetkan untuk dicapai melalui pelaksanaan kurikulum PAI di SMP.       
             <p>
           </div>
         </div>
@@ -188,29 +178,12 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/features.jpeg");' data-aos="fade-right"></div>
+          <div class="image col-lg-6" style='background-image: url("assets/img/MTS.jpeg");' data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-            </div>
-          </div>
+            <i class="bi bi-pin-angle"></i>
+              <h4>Land And Buildings</h4>
+              <p>Yayasan Bina CendekiaCirebon menempati lahan seluas 46,241 M2(empat puluh enam ribu dua ratus empat puluh satu meter bujur sangkar) yang terletak dalam satu kawasan, yaitu di kawasan KAMPUS BINA CENDEKIA. Sekitar 21,000 M2(dua puluh satu ribu meter bujur sangkar) dialokasikan untuk satuan-satuan pendidikan PP, MTs, SMP, MA, dan SMK, sekitar 8,241 M2 (delapan ribu dua ratus empat puluh satu meter bujur sangkar) dialokasikan untuk STSI, dan sekitar 17.000 M2(tujuhbelas ribu meter bujur sangkar) dialokasikan untuk ISTT. </p>
         </div>
 
       </div>
@@ -230,7 +203,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-book"></i></div>
               <h4><a href="">Kurikulum Nasional</a></h4>
-              <p>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</p>
+              <h6>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</h4>
             </div>
           </div>
 
@@ -238,7 +211,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
               <h4><a href="">Program Beasiswa</a></h4>
-              <p>Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</p>
+              <h6>program Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</a>
             </div>
           </div>
 
@@ -246,51 +219,12 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-people"></i></div>
               <h4><a href="">Pengajar Kompoten</a></h4>
-              <p>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</p>
+              <h6>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</h4>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-            </div>
-          </div>
-
         </div>
-
       </div>
     </section><!-- End Services Section -->
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
@@ -445,52 +379,7 @@
       </div>
     </section><!-- End Portfolio Section -->
 
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row no-gutters">
-          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay="100"></div>
-          <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
-            <div class="content d-flex flex-column justify-content-center">
-              <h3>Voluptatem dignissimos provident quasi</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-              </p>
-              <div class="row">
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="2" class="purecounter"></span>
-                    <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-journal-richtext"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="2" class="purecounter"></span>
-                    <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-clock"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="4" class="purecounter"></span>
-                    <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
-                  </div>
-                </div>
-
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-award"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="4" class="purecounter"></span>
-                    <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End .content-->
+    
           </div>
         </div>
 
@@ -689,7 +578,7 @@
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4>Hubungi Kami:</h4>
                 <p>085287222111</p>
               </div>
 
@@ -800,7 +689,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="">Team MJ</a>
+        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337">DevProgremer</a>
       </div>
     </div>
   </footer><!-- End Footer -->

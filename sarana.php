@@ -61,8 +61,7 @@
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="formulir.php">Formulir</a></li>
+              <li><a href="info.php">Infromasi Lengkap</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -76,7 +75,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="daftar.php" class="get-started-btn scrollto">Daftar</a>
+      <a href="login.php" class="get-started-btn scrollto">Login</a>
 
     </div>
   </header><!-- End Header -->
@@ -140,16 +139,12 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>PROGRAM PENDIDIKAN </h2>
+          <h2>INFORMASI UMUM </h2>
           <p>MTS Bina Cendekia Cirebon </p>
         </div>
             <ul>
-<li><i class="ri-check-double-line"></i> Sebagian besar peserta didik pada jenjang pendidikan dasar dan menengah datang dari keluarga yang kondisi ekonominya adalah menengah ke bawah, dan diantara mereka adalah yatim. Oleh karena itu, mereka hanya diwajibkan membayar uang sumbangan penyelenggaraan pendidikan (SPP) dalam jumlah kecil, dan bagi mereka yang tidak mampu dibebaskan dari kewajiban membayar SPP tersebut.</li>
-<li><i class="ri-check-double-line"></i>Mengikuti program belajar membaca Al Qur’an secara fasih dan belajar tentang kewirausahaan, aqidah, ibadah, and akhlaq adalah wajib bagi setiap peserta didik. </li>
-<li><i class="ri-check-double-line"></i>Program Tahfidz AlQur’an disediakan bagi mereka yang berminat untuk mengikutinya. Dalam program ini peserta dapat memilih program Tahfidz satu Juz’u, Tahfidz lima Juz’u, Tahfidz sepuluh Juz’u, atau Tahfidz seluruhAl Qur’an.</li>
-<li><i class="ri-check-double-line"></i>Disediakan program belajar berkomunikasi menggunakan bahasa Arab, Inggris, Jepang, atau Mandarin yang dapat dipilih oleh peserta didik yang berminat untuk mengikutinya. </li>
-<li><i class="ri-check-double-line"></i>Disediakan program belajar Kitab Kuning (Kutubut Turats)yang disediakan bagi peserta didik yang berminat untuk mengikutinya. </li>
-<li><i class="ri-check-double-line"></i>Disediakan pula proram pemanfaatan masjid kampus (masjid Raudlatut Thalibien) sebagai pusat belajar, khususnya TahfidzAl Qur’an, belajar Kitab Kuning, belajar berkomunikasi menggunakan Bahasa asing, dan kegiatan-kegiatan belajar lainnya. </li>
+          <p>  Madrasah Tsanawiyah (MTs) Bina Cendekia adalah satuan pendidikan yang berada dalam jurisdiksi Kementerian Agama (Kemenag). Menurut UU Nomor 20 Tahun 2003, tentang Sistem Pendidikan Nasional, satuan pendidikan ini menjadi terminal jenjang pendidikan dasar yang setara dengan Sekolah Menengah Pertama (SMP) yang berada pada jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Sebagai bagian dari sistem pendidikan nasional, satuan pendidikan ini dapat menjadi alternatif bagi lulusan Sekolah Dasar (SD) atau Madrasah Ibtidaiyah (MI) untuk melanjutkan pendidikan dalam rangka melaksanakan wajib belajar 9 tahun. Satu satunya perbedaan antara pendidikan di MTs dan di SMP adalah jumlah jam pelajaran yang dialokasikan untuk Pendidikan Agama Islam (PAI) yang pada kurikulum MTs dialokasikan 6 jam pelajaran, sedangkan pada kurikulum SMP hanya 2 jam pelajaran.      
+Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam program pendidikan Pesantren. Target yang ingin dicapai adalah setiap peserta didik mampu membaca Al Qur’an secara fasih dan lancar serta memahami dasar-dasar fiqih ibadah dan mu’amalah Islami, dan mampu melaksanakan prakteknya. Dalam pelaksanaannya, peserta didik dapat mencapai target itu dengan mengikuti kegiatan komplementer di Pesantren. Melalui cara ini diharapkan setiap peserta didik memperoleh kompetensi terkait dengan mata pelajaran PAI melebihi yang ditargetkan untuk dicapai melalui pelaksanaan kurikulum PAI di SMP.       
             <p>
           </div>
         </div>
@@ -186,26 +181,9 @@
           <div class="image col-lg-6" style='background-image: url("assets/img/MTS.jpeg");' data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-            </div>
-          </div>
+            <i class="bi bi-pin-angle"></i>
+              <h4>Land And Buildings</h4>
+              <p>Yayasan Bina CendekiaCirebon menempati lahan seluas 46,241 M2(empat puluh enam ribu dua ratus empat puluh satu meter bujur sangkar) yang terletak dalam satu kawasan, yaitu di kawasan KAMPUS BINA CENDEKIA. Sekitar 21,000 M2(dua puluh satu ribu meter bujur sangkar) dialokasikan untuk satuan-satuan pendidikan PP, MTs, SMP, MA, dan SMK, sekitar 8,241 M2 (delapan ribu dua ratus empat puluh satu meter bujur sangkar) dialokasikan untuk STSI, dan sekitar 17.000 M2(tujuhbelas ribu meter bujur sangkar) dialokasikan untuk ISTT. </p>
         </div>
 
       </div>
@@ -711,7 +689,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="">Team MJ</a>
+        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337">DevProgremer</a>
       </div>
     </div>
   </footer><!-- End Footer -->
