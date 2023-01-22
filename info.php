@@ -76,7 +76,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="login.php" class="get-started-btn scrollto">Login</a>
+      <a href="daftar.php" class="get-started-btn scrollto">Daftar</a>
 
     </div>
   </header><!-- End Header -->
