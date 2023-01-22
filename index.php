@@ -62,7 +62,7 @@
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="brosur.php">Brosur</a></li>
-              <li><a href="formulir.php">Formulir</a></li>
+              <li><a href="ppdb/index.php">Formulir</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
