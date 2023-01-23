@@ -134,7 +134,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2> Galeri Sekolah </h2>
+          <h2> Kegiatan Sekolah </h2>
           <p>MTS Bina Cendekia Cirebon </p>
         </div>
         <div class="row">
