@@ -102,7 +102,7 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-book-open-line"></i>
-            <h3><a href="yayasan.php">Yayasan BCC</a></h3>
+            <h3><a href="https://binacendekia.org/">Yayasan BCUC</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
