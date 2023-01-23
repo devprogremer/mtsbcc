@@ -49,19 +49,21 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+          <li><a class="nav-link scrollto active" href="home">Home</a></li>
           <li class="dropdown"><a href="#"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="profil.php">Profil Sekolah</a></li>
+              <li><a href="profil.php">Profil</a></li>
               <li><a href="visi.php">Visi Dan Misi</a></li>
               <li><a href="organisasi.php">Struktur Organisasi</a></li>
               <li><a href="data.php">Data Guru</a></li>
+              <li><a href="akreditasi.php">Akreditasi</a></li>
               <li><a href="sarana.php">Sarana</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>PPDB</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="info.php">Infromasi Lengkap</a></li>
+              <li><a href="brosur.php">Brosur</a></li>
+              <li><a href="daftar.php">Daftar</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Galery Kegiatan</span> <i class="bi bi-chevron-down"></i></a>
@@ -80,8 +82,8 @@
     </div>
   </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center justify-content-center" >
+  <!---======= Hero Section ======= --->
+  <section id="hero" class="d-flex align-items-center justify-content-center">
     <div class="container" data-aos="fade-up">
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
@@ -113,7 +115,7 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-group-line"></i>
-            <h3><a href="akreditasi.php">Akreditasi</a></h3>
+            <h3><a href="prestasi.php">Prestasi</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -126,434 +128,445 @@
 
     </div>
   </section><!-- End Hero -->
-
   <main id="main">
-
-    <!-- ======= About Section ======= -->
+    <!--=======Team Section=======-->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Home.jpeg" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-          <div class="section-title">
-          <h2>INFORMASI UMUM </h2>
-          <p>MTS Bina Cendekia Cirebon </p>
-        </div>
-            <ul>
-          <p>  Madrasah Tsanawiyah (MTs) Bina Cendekia adalah satuan pendidikan yang berada dalam jurisdiksi Kementerian Agama (Kemenag). Menurut UU Nomor 20 Tahun 2003, tentang Sistem Pendidikan Nasional, satuan pendidikan ini menjadi terminal jenjang pendidikan dasar yang setara dengan Sekolah Menengah Pertama (SMP) yang berada pada jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Sebagai bagian dari sistem pendidikan nasional, satuan pendidikan ini dapat menjadi alternatif bagi lulusan Sekolah Dasar (SD) atau Madrasah Ibtidaiyah (MI) untuk melanjutkan pendidikan dalam rangka melaksanakan wajib belajar 9 tahun. Satu satunya perbedaan antara pendidikan di MTs dan di SMP adalah jumlah jam pelajaran yang dialokasikan untuk Pendidikan Agama Islam (PAI) yang pada kurikulum MTs dialokasikan 6 jam pelajaran, sedangkan pada kurikulum SMP hanya 2 jam pelajaran.      
-Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam program pendidikan Pesantren. Target yang ingin dicapai adalah setiap peserta didik mampu membaca Al Qur’an secara fasih dan lancar serta memahami dasar-dasar fiqih ibadah dan mu’amalah Islami, dan mampu melaksanakan prakteknya. Dalam pelaksanaannya, peserta didik dapat mencapai target itu dengan mengikuti kegiatan komplementer di Pesantren. Melalui cara ini diharapkan setiap peserta didik memperoleh kompetensi terkait dengan mata pelajaran PAI melebihi yang ditargetkan untuk dicapai melalui pelaksanaan kurikulum PAI di SMP.       
-            <p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="clients-slider swiper">
-          <div class="swiper-wrapper align-items-center">
-            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Clients Section -->
-
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+          <section id="services" class="services">
       <div class="container" data-aos="fade-up">
 
-        <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/MTS.jpeg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-            <i class="bi bi-pin-angle"></i>
-              <h4>Land And Buildings</h4>
-              <p>Yayasan Bina CendekiaCirebon menempati lahan seluas 46,241 M2(empat puluh enam ribu dua ratus empat puluh satu meter bujur sangkar) yang terletak dalam satu kawasan, yaitu di kawasan KAMPUS BINA CENDEKIA. Sekitar 21,000 M2(dua puluh satu ribu meter bujur sangkar) dialokasikan untuk satuan-satuan pendidikan PP, MTs, SMP, MA, dan SMK, sekitar 8,241 M2 (delapan ribu dua ratus empat puluh satu meter bujur sangkar) dialokasikan untuk STSI, dan sekitar 17.000 M2(tujuhbelas ribu meter bujur sangkar) dialokasikan untuk ISTT. </p>
+   <div class="section-title">
+          <h2>DAFTAR DATA GURU</h2>
+          <p>MTS BINA CENDEKIA CIREBON</p>
         </div>
-
-      </div>
-    </section><!-- End Features Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Check our Services</p>
         </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-book"></i></div>
-              <h4><a href="">Kurikulum Nasional</a></h4>
-              <h6>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</h4>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
-              <h4><a href="">Program Beasiswa</a></h4>
-              <h6>program Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bi bi-people"></i></div>
-              <h4><a href="">Pengajar Kompoten</a></h4>
-              <h6>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</h4>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Services Section -->
-
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Check our Portfolio</p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Portfolio Section -->
-
-    
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Counts Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
-      <div class="container" data-aos="zoom-in">
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Jiwa kamu rapuh karena kegagalan? Setidaknya itu lebih baik daripada jiwa yang kosong karena diam tak pernah mencoba. Banyak sekali kegagalan hidup yang di rasakan oleh orang-orang, itu karena mereka tidak menyadari betapa dekatnya dirinya dengan keberhasilan saat ia memutuskan untuk Menyerah.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Kesalahan yang seharusnya kamu sesali bukanlah kegagalan, tetapi ketika kamu berhenti untuk mencoba kembali dan menyerah sebelum merasakan keberhasilan.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Jangan pernah lelah dengan mimpi, jika tidak terpenuhi. Ketakutan akan kegagalan seharusnya tidak menghalangimu dari jalan kepercayaan diri.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Perubahan diri memerlukan perjuangan, bukan dengan sekadar duduk diam. Berjuanglah demi perubahan diri dan beri ruang pada perubahan.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>Words Of Motivation</h3>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Jangan lelah mencoba. Tidak ada jaminan kesuksesan, tetapi memilih untuk tidak mencoba adalah jaminan kegagalan.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-
-    <!-- ======= Team Section ======= -->
     <section id="team" class="team">
       <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Program</h2>
-          <p>Program Study</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
+      <div class="row">
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/study-1.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Siswi Beprestasi</h4>
-                <span>Juara 1-3 dalam perlombaan antar kelas</span>
+                <h4>Mohammad Qushoy, M.Pd</h4>
+                <span>KEPALA MADRASAH	</span>
               </div>
             </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+         <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/study-2.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Praktek Siswa</h4>
-                <span>Praktek siswa menyembelih ayam</span>
+                <h4>Alwy Baihaqi.</h4>
+                <span>KEPALA URUSAN TATA USAHA	</span>
               </div>
             </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/study-3.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Acara Maulid</h4>
-                <span>Kita juga selalu memperingati Hari Maulid Nabi Muhammad SAW</span>
+                <h4>Titim Siti Fatimah, S.Pd.I.</h4>
+                <span>BENDAHARA	</span>
               </div>
             </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/study-4.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Siswa Berprestasi</h4>
-                <span>Siswa yang mendapatkan juara di perlombaan porak</span>
+                <h4>Alwy Baihaqi
+  Baitul Izza, S.H.I</h4>
+                <span>OPERATOR MADRASAH	</span>
               </div>
             </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
+            </div>
+            <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ahmad Kinani, S.Kom.I</h4>
+                <span>BIDANG KURIKULUM			</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>BIDANG KESISWAAN</h4>
+                <span>DianSiti Oliyana, S.Pd.I</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Muhammad Ma’mun, S.Pd.I</h4>
+                <span>BIDANG SARPRAS	</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dra Roisah</h4>
+                <span>KEPALA PERPUSTAKAAN	</span>
+              </div>
+            </div>
+            </div>
+  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ikna Maulida, S.Pd.</h4>
+                <span>KEPALA UKS	</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ahmad Syathori, SHI</h4>
+                <span>PEMBINA OSIS</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Titim Siti Fatimah, S.Pd.I.</h4>
+                <span>PEMBINA PRAMUKA</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Alwy Baihaqi.</h4>
+                <span>PEMBINA HADROH	</span>
+              </div>
+            </div>
+            </div>
+            <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ikna Maulida,S.Pd</h4>
+                <span>PEMBINA PMR</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ahmad Kinani, S.Kom.I</h4>
+                <span>PEMBINA PASKIBRA	</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-1.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Abdul Aziz, S.Pd.I</h4>
+                <span>PEMBINA PAGAR NUSA</span>
+              </div>
+            </div>
+            </div>
+           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dian Siti Oliyana,S.Pd</h4>
+                <span>WALI KELAS IX B</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Saerah, S.Pd</h4>
+                <span>KELAS VII A	</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ratu Ratna Sukainten, S.Pd</h4>
+                <span> KELAS VII B</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Vilya Fauziah, S.Pd</h4>
+                <span>KELAS VII C</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dra. Roisah</h4>
+                <span> KELAS VIII A</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ikna Maulida, S.Pd.</h4>
+                <span>KELAS VIII B</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Titim Siti Fatimah, S.Pd.I</h4>
+                <span>KELAS VIII C</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Entik Kartika, S.Pd</h4>
+                <span>KELAS IX A</span>
+              </div>
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+    <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/team-4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dian Siti Oliyana,S.Pd</h4>
+                <span>WALI KELAS IX B</span>
+              </div>
+            </div>
+            </div>
+    </section><!-- End Features Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Lokasi</h2>
-          <p>Lokasi Kami</p>
+          <h2>Contact</h2>
+          <p>Contact Us</p>
         </div>
 
         <div>
@@ -578,7 +591,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Hubungi Kami:</h4>
+                <h4>Call:</h4>
                 <p>085287222111</p>
               </div>
 
@@ -591,17 +604,17 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Tulis Nama Lengkap" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subjek" id="phone" placeholder="Nomor Telepon/WA" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="Massage" rows="5" placeholder="Tulis Asal SMP Dan Alamat Rumah" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -646,7 +659,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
           </div>
           
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Informasi Yang Bermanfaat</h4>
+            <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
@@ -657,7 +670,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Bootstrap</h4>
+            <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
@@ -668,8 +681,8 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Comment</h4>
-            <p>Informasi lebih lengkap </p>
+            <h4>Our Newsletter</h4>
+            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -689,7 +702,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://web.facebook.com/profile.php?id=100089766366337">DevProgremer</a>
+        Designed by <a href="">Team MJ</a>
       </div>
     </div>
   </footer><!-- End Footer -->
