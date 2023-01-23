@@ -135,7 +135,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/ppdb1.png" class="img-fluid" alt="">
+            <img src="assets/img/ppdb2.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -180,6 +180,44 @@
 
       </div>
     </section><!-- End Clients Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>KENAPA HARUS DI</h2>
+          <p>MTs BINA CENDEKIA CIREBON ?</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-book"></i></div>
+              <h4><a href="">Kurikulum Nasional</a></h4>
+              <h6>Kurikulum 2013 bertujuan untuk mempersiapkan manusia Indonesia agar memiliki kemampuan hidup sebagai pribadi dan warga negara yang beriman, produktif, kreatif, inovatif, dan afektif serta mampu berkontribusi pada kehidupan bermasyarakat, berbangsa, bernegara, dan peradaban dunia.</h4>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-mortarboard-fill"></i></div>
+              <h4><a href="">Program Beasiswa</a></h4>
+              <h6>program Beasiswa ini untuk siswa yang berprestasi dan anak yatim/piatu</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-people"></i></div>
+              <h4><a href="">Pengajar Kompoten</a></h4>
+              <h6>Kualifikasi pengajar S1 dan S2 dari lulusan kampus ternama dan memiliki sertifikasi keahlian</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Services Section -->
+
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
@@ -320,7 +358,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/team/Paskibra.png" class="img-fluid" alt="">
+                <img src="assets/img/team/ok.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
