@@ -171,7 +171,6 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
 
       </div>
     </section><!-- End About Section -->
-
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container" data-aos="zoom-in">
@@ -194,31 +193,13 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
     </section><!-- End Clients Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
       <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="image col-lg-6" style='background-image: url("assets/img/YH.jpeg");' data-aos="fade-right"></div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+          </div>
+          <div class="section-title">
+          <center>  <p> <img src="assets/img/logomts.png" alt="Logo"/><a href class=></i>SATUAN PENDIDIDKAN MTS BINA CENDEKIA CIREBON</p>
+        <center><img src="assets/img/idnttas.jpg" width="800" height="1000"><center>
+          
             </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
             </div>
           </div>
         </div>
@@ -226,17 +207,13 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
       </div>
     </section><!-- End Features Section -->
 
-   
-
-    
-
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Contact Us</p>
+          <h2>LOKASI</h2>
+          <p>LOKASI KITA</p>
         </div>
 
         <div>
