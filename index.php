@@ -664,7 +664,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Comment</h4>
+            <h4>Tentang Kami</h4>
             <p>Informasi lebih lengkap </p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
