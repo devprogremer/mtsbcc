@@ -261,8 +261,8 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Informasi Yang Bermanfaat</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang Kami</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="tentangkami.php">Tentang Kami</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">PPDB</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Galery Kegiatan</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Rapot Digital</a></li>
