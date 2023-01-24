@@ -151,7 +151,7 @@
           </div>
           <div class="section-title">
           <p><i class="bi bi-fast-forward-btn-fill"></i>MISI</p>
-          <li><i class="ri-check-double-line"></i>Memiliki pengetauan dan kompetensi yang memadai untuk melanjutkan pendidikan ke jenjang pendidikan menengah atau memasuki kehidupan di masyrakat</li>
+          <li><i class="bi bi-caret-right-fill"></i>Memiliki pengetauan dan kompetensi yang memadai untuk melanjutkan pendidikan ke jenjang pendidikan menengah atau memasuki kehidupan di masyrakat</li>
           <li><i class="bi bi-caret-right-fill"></i> Memberi kontribusi kepada program pemerintah Indonesia terkait pelaksanaan wajib belajar sembilan tahun. </li>
           <li><i class="bi bi-caret-right-fill"></i> Memberi layanan kepada anak-anak Indonesia, khususnya Muslim, dalam memperoleh pengetahuan tentang Agama Islam beserta nilai-nilai dan prakatek amalannya dalam kehidupan sehari-hari. </li>
           <li><i class="bi bi-caret-right-fill"></i> Memberi layanan kepada anak-anak Indonesia, khususnya Muslim, untuk mempersiapkan diri melanjutkan pendidikan pada jenjang pendidikan menengah. </li>
