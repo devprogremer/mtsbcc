@@ -465,7 +465,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
         <div class="section-title">
           <h2>Program</h2>
-          <p>Program Study</p>
+          <p>Kegiatan Sekolah</p>
         </div>
 
         <div class="row">
@@ -473,7 +473,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/study-1.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/study-1.jpeg" a href="" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -483,7 +483,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
               </div>
               <div class="member-info">
                 <h4>Siswi Beprestasi</h4>
-                <span>Juara 1-3 dalam perlombaan antar kelas</span>
+                <a href=""><span>Juara 1-3 dalam perlombaan antar kelas</span>
               </div>
             </div>
           </div>
