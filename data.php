@@ -682,7 +682,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>TENTANG KAMI</h4>
-            <p>Informasi Selengkapnya</p>
+            <p>Informasi Lebih Lengkap</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
