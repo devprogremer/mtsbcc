@@ -565,8 +565,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Contact Us</p>
+          <h2>LOKASI</h2>
+          <p>LOKASI KITA</p>
         </div>
 
         <div>
