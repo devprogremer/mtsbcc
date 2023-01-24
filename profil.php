@@ -325,8 +325,8 @@ Berdirinya MTs Bina Cendekia, tidak lepas dari jasa-jasa Masyayikh Masyakhih yan
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Tentang Kami</h4>
+            <p>Informasi Lebih Lengkap</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
