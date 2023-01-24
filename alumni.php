@@ -649,10 +649,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
             <h4>Informasi Yang Bermanfaat</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang Kami</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">PPDB</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Galery Kegiatan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Rapot Digital</a></li>
             </ul>
           </div>
 

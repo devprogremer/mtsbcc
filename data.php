@@ -662,10 +662,10 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang Kami</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">PPDB</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Galery Kegiatan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Rapot Digital</a></li>
             </ul>
           </div>
 
@@ -681,7 +681,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>TENTANG KAMI</h4>
+            <h4>Tentang Kami</h4>
             <p>Informasi Lebih Lengkap</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
