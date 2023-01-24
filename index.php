@@ -101,7 +101,7 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-book-open-line"></i>
-            <h3><a href="yayasan.php">Yayasan BCC</a></h3>
+            <h3><a href="https://binacendekia.org/">Yayasan BCUC</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -135,7 +135,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/Home.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/home.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
@@ -194,8 +194,8 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Check our Services</p>
+          <h2>KENAPA HARUS DI</h2>
+          <p>MTs BINA CENDEKIA CIREBON ?</p>
         </div>
 
         <div class="row">
@@ -232,16 +232,16 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Check our Portfolio</p>
+          <p>MTs BINA CENDEKIA CIREBON</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Semua</li>
+              <li data-filter=".filter-app">Kegiatan</li>
+              <li data-filter=".filter-card">Guru</li>
+              <li data-filter=".filter-web">Prestasi</li>
             </ul>
           </div>
         </div>
@@ -250,10 +250,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan1.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Kegiatan</h4>
+                <p>Maulid Nabi Muhammad</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -264,10 +264,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan12.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Prestasi</h4>
+                <p>Juara 1 Futsal Dalam Porak Di MTs BCC</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -278,10 +278,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan2.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Kegiatan</h4>
+                <p>Ekstrakulikuler</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -292,10 +292,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan11.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Guru</h4>
+                <p>MTs BINA CENDEKIA CIREBON</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -306,10 +306,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan13.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Prestasi</h4>
+                <p>Juara 1,2, dan 3 Bulu Tangkis Dalam Lomba Porak</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -320,10 +320,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan20.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Kegiatan</h4>
+                <p>Acara Muharaman</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -334,10 +334,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan10.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                <h4>Guru</h4>
+                <p>MTs BINA CENDEKIA CIREBON</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -348,10 +348,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Aboutt.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Guru</h4>
+                <p>MTs BINA CENDEKIA CIREBON</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -362,10 +362,10 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/kegiatan14.jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Prestasi</h4>
+                <p>Juara 1,2, dan 3 Volly Cewek Dalam POrak MTs BCC</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -380,6 +380,8 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
     </section><!-- End Portfolio Section -->
 
     
+=======
+>>>>>>> 2b2e5b768a281055e338c5a318b560dcee18d6de
           </div>
         </div>
 
