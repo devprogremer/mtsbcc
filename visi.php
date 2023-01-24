@@ -135,7 +135,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <div class="section-title">
-          <h2>VISI,MISI,DAN TUJUAN </h2>
+          <h2>VISI,MISI,</h2>
           <p><i class="bi bi-fast-forward-btn-fill"></i>MTS Bina Cendekia Cirebon </p>
         </div>
           <p>  Sebagai salah satu bagian dari satuan pendidikan yang diselenggarakan oleh YBCUC, Madrasah Tsanawiyah (MTs) Bina Cendekia mempunyai visi menjadi OUTSTANDING ENTREPRENEURIAL ISLAMIC JUNIOR HIGH SCHOOL. Satuan pendidikan ini menyelenggarakan pendidikan Islami yang unggul, pada jenjang pendidikan dasar, guna membangun sumber daya insani Muslim yang berjiwa pewirausaha.
@@ -281,7 +281,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Comment</h4>
+            <h4>Tentang Kami</h4>
             <p>Informasi lebih lengkap </p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
