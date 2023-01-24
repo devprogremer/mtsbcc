@@ -379,13 +379,7 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
       </div>
     </section><!-- End Portfolio Section -->
 
-    
-=======
->>>>>>> 2b2e5b768a281055e338c5a318b560dcee18d6de
-          </div>
-        </div>
-
-      </div>
+        
     </section><!-- End Counts Section -->
 
     <!-- ======= Testimonials Section ======= -->
@@ -473,24 +467,6 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
         <div class="row">
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/team/study-1.jpeg" a href="" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-youtube"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Siswi Beprestasi</h4>
-                <a href=""><span>Juara 1-3 dalam perlombaan antar kelas</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="assets/img/team/study-2.jpeg" class="img-fluid" alt="">
@@ -522,6 +498,24 @@ Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam progra
               <div class="member-info">
                 <h4>Acara Maulid</h4>
                 <span>Kita juga selalu memperingati Hari Maulid Nabi Muhammad SAW</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/team/kegiatan4.jpeg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Ekstrakulikuler</h4>
+                <span>Pramuka Praja Muda Karana</span>
               </div>
             </div>
           </div>
