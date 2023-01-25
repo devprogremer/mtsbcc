@@ -75,7 +75,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="daftar.php" class="get-started-btn scrollto">Daftar</a>
+      <a href="http://localhost/mtsbcc/ppdb/ro-index/" class="get-started-btn scrollto">Daftar</a>
 
     </div>
   </header><!-- End Header -->
