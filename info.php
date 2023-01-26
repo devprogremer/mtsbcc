@@ -224,12 +224,12 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-xl-6" style='background-image: url("assets/img/ppdb3.jpeg");' data-aos="fade-left"></div>
+          <div class="image col-xl-6" style='background-image: url("assets/img/ppdb1.jpeg");' data-aos="fade-left"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bi bi-calendar3"></i>
-              <h4>Tanggal Pendaftaran</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>Pendaftaran</h4>
+              <p>Pendaftaran dimulai bulan Maret dampai dengan Juli 2023</p>
             </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class="bi bi-buildings"></i>
@@ -240,7 +240,7 @@
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class="bi bi-arrow-repeat"></i>
               <h4>Daftar Ulang</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+              <p>Daftar ulang bisa langsung hubungi kami untuk mencari Informasi lebih lengkapnya.</p>
             </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class="bi bi-info-square"></i>
