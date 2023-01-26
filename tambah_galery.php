@@ -1,3 +1,7 @@
+<?php
+  include('koneksi.php'); //agar index terhubung dengan database, maka koneksi sebagai penghubung harus di include
+  
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -49,7 +53,28 @@
   </div>
 </nav>
     <!-- Optional JavaScript; choose one of the two! -->
-
+    <center>
+        <h1>Tambah Galery</h1>
+      <center>
+      <form method="POST" action="proses_tambah.php" enctype="multipart/form-data" >
+      <section class="base">
+        <div>
+          <label>Tanggal</label>
+          <input type="text" name="tanggal" autofocus="" required="" />
+        </div>
+        <div>
+          <label>Kegiatan</label>
+         <input type="text" name="kegiatan" />
+        </div>
+               <div>
+          <label>Gambar Produk</label>
+         <input type="file" name="gambar_produk" required="" />
+        </div>
+        <div>
+         <button type="submit">Simpan Produk</button>
+        </div>
+        </section>
+      </form>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 

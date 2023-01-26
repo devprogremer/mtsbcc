@@ -134,26 +134,30 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-right"  data-aos-delay="50">
             <img src="assets/img/kepsek.jpeg" class="img-fluid" alt="">
+            
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-center" data-aos-delay="100">
           <div class="section-title">
           <h2>MTs BINA CENDEKIA CIREBON</h2>
           <p>█ SAMBUTAN KEPALA SEKOLAH</p>
         </div>
-            <ul>
-          <p>  Assalamu'alaikum Wr. Wb.
+        <div class="jumbotron">
+        <div class="row justify-content-center">
+        <p class="justify">  Assalamu'alaikum Wr. Wb.
 Saudara-saudaraku yang kami hormati,
 Alhamdulillah, segala puji dan syukur kita panjatkan ke hadirat Allah SWT yang telah melimpahkan nikmat kepada kita semua mulai dari nikmat sehat, iman dan kesempatan untuk dapat mengabdi di bidang pendidikan untuk mencerdaskan anak bangsa.
 Pertama-tama marilah kita berdo'a agar kita selalu mendapat rahmat Allah, Syafaat Rosulullah dan Karomah para Waliyulloh, sehingga kita tergolong ummat Rosululloh SAW yang bahagia dan selamat dunia akhirat. 
 Menjadi seorang Pendidik atau Tenaga Pendidik merupakan Infaq terbesar yang tiada tandingannya, karena apabila kita mampu mengantarkan satu anak menjadi soleh/solehah pasti pahala akan mengalir sampai di akherat kelak. Madrasah Tsanawiyah Bina Cendekia merupakan salah satu Madrasah di wilayah Cirebon Timur khususnya, Kecamatan Astanajapura yang penuh syarat prestasi, baik prestasi akademik maupun non akademik. 
-Sebagai salah satu Madrasah unggulan senantiasa berusaha mewujudkan apa yang menjadi harapan pemerintah dan masyarakat melalui serangkaian kegiatan dan program kerja yang berorientasi kepada peningkatan kualitas dan daya saing lulusan. Dalam rangka merealisasikan hal tersebut perlu dijalin kerjasama dan komunikasi yang baik antara pihak sekolah, masyarakat dan pemerintah. Website ini kami hadirkan dalam rangka untuk menjalin komunikasi dan mengawali kerjasama yang baik antara pihak Madrasah, siswa, wali murid, msyarakat dan Pemerintah. Komunikasi ini akan sangat berguna bagi semua pihak yang berkepentingan, bagi pihak sekolah informasi yang didapat dari masyarakat akan digunakan sebagai bahan pertimbangan dan evaluasi kebijakan yang ada, di sisi lain pihak sekolah juga dapat menyampaikan dan mensosialisasikan program serta kebijakan sekolah. Untuk itu kami mengajak kepada seluruh Civitas Akademika MTs Bina Cendekia untuk berjihad, bersemangat dan dengan penuh keiklasan serta dengan commitment together berniat menjadikan MTs Bina Cendekia tercinta lebih baik, lebih baik dan paling baik. Demikian pula kepada masyarakat, kami mohon do'a restunya, dukungannya dan kerjasamanya, agar MTs Bina Cendekia juga di cintai oleh masyarakat.
+Sebagai salah satu Madrasah unggulan senantiasa berusaha mewujudkan apa yang menjadi harapan pemerintah dan masyarakat melalui serangkaian kegiatan dan program kerja yang berorientasi kepada peningkatan kualitas dan daya saing lulusan. Dalam rangka merealisasikan hal tersebut perlu dijalin kerjasama dan komunikasi yang baik antara pihak sekolah, masyarakat dan pemerintah. Website ini kami hadirkan dalam rangka untuk menjalin komunikasi dan mengawali kerjasama yang baik antara pihak Madrasah, siswa, 
+wali murid, </p>
+<p> masyarakat dan Pemerintah. Komunikasi ini akan sangat berguna bagi semua pihak yang berkepentingan, bagi pihak sekolah informasi yang didapat dari masyarakat akan digunakan sebagai bahan pertimbangan dan evaluasi kebijakan yang ada, di sisi lain pihak sekolah juga dapat menyampaikan dan mensosialisasikan program serta kebijakan sekolah. Untuk itu kami mengajak kepada seluruh Civitas Akademika MTs Bina Cendekia untuk berjihad, bersemangat dan dengan penuh keiklasan serta dengan commitment together berniat menjadikan MTs Bina Cendekia tercinta lebih baik, lebih baik dan paling baik. Demikian pula kepada masyarakat, kami mohon do'a restunya, dukungannya dan kerjasamanya, agar MTs Bina Cendekia juga di cintai oleh masyarakat.
 Akhirnya, semoga langkah-langkah kita selalu dalam petunjuk dan bimbingan Allah SWT, dan Madrasah kita menjadi Barokah, Manfaat dan Istiqomah serta menjadi Madrasah yang hebat bermartabat.
-Wassalamu'alaikum Wr. Wb.
-
+Wassalamu'alaikum Wr. Wb.</p>
+</div>
        
-            <p>
+</p>
           </div>
         </div>
 
