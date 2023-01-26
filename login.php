@@ -25,7 +25,7 @@
 			$p = input(md5($_POST["password"]));
 
 			$sql = "select * from users where username='".$username."' and password='".$p."' limit 1";
-			$hasil = mysqli_query ($kon,$sql);
+			$hasil = mysqli_query ($koneksi,$sql);
 			$jumlah = mysqli_num_rows($hasil);
 
 			if ($jumlah>0) {

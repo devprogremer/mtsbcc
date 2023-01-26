@@ -1,3 +1,7 @@
+<?php
+  include('koneksi.php'); //agar index terhubung dengan database, maka koneksi sebagai penghubung harus di include
+  
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -49,7 +53,55 @@
   </div>
 </nav>
     <!-- Optional JavaScript; choose one of the two! -->
+    <center><h1>Data Produk</h1><center>
+    <center><a href="tambah_galery.php">+ &nbsp; Tambah Galery</a><center>
+    <br/>
+    
+      <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">NO</th>
+      <th scope="col">Tanggal</th>
+      <th scope="col">Kegiatan</th>
+      <th scope="col">Gambar</th>
+      <th scope="col">Action</th>
+    </tr>
+   </thead>
+    <tbody>
+      <?php
+      // jalankan query untuk menampilkan semua data diurutkan berdasarkan nim
+      $query = "SELECT * FROM produk ORDER BY id ASC";
+      $result = mysqli_query($koneksi, $query);
+      //mengecek apakah ada error ketika menjalankan query
+      if(!$result){
+        die ("Query Error: ".mysqli_errno($koneksi).
+           " - ".mysqli_error($koneksi));
+      }
 
+      //buat perulangan untuk element tabel dari data mahasiswa
+      $no = 1; //variabel untuk membuat nomor urut
+      // hasil query akan disimpan dalam variabel $data dalam bentuk array
+      // kemudian dicetak dengan perulangan while
+      while($row = mysqli_fetch_assoc($result))
+      {
+      ?>
+       <tr>
+          <td><?php echo $no; ?></td>
+          <td><?php echo $row['tanggal']; ?></td>
+          <td><?php echo substr($row['kegiatan'], 0, 20); ?>...</td>
+         <td style="text-align: center;"><img src="gambar/<?php echo $row['gambar_produk']; ?>" style="width: 120px;"></td>
+          <td>
+              <a href="edit_produk.php?id=<?php echo $row['id']; ?>">Edit</a> |
+              <a href="proses_hapus.php?id=<?php echo $row['id']; ?>" onclick="return confirm('Anda yakin akan menghapus data ini?')">Hapus</a>
+          </td>
+      </tr>
+         
+      <?php
+        $no++; //untuk nomor urut terus bertambah 1
+      }
+      ?>
+    </tbody>
+    </table>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
